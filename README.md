@@ -1,1 +1,1 @@
-# DP
+# DP (dynamic programming)
